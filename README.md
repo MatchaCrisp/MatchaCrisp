@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatchaCrisp
-- 👀 I’m interested in web app/game development using JS, Python, Java, C++, postgreSQL
-- 🌱 I’m currently learning react.js/d3.js
+- 👀 I’m interested in web app/game development using JS (React), Python, Java, C++, postgreSQL
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: junyanbill@hotmail.com
 
